@@ -1,7 +1,7 @@
 # CRUD-LARAVEL 
 
 
-This Crud proyect was created whith the Laravel Generator package provides and generate Controller, Model and Views in Bootstrap...
+This Crud project was created whith the Laravel Generator package provides and generate Controller, Model and Views in Bootstrap...
 
 Comand.
 
