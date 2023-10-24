@@ -53,7 +53,8 @@
                                                 href="{{ route('showorders.index', ['cliente' => $cliente->name]) }}"
                                                 >
                                                 <i class="fa-brands fa-shopify"></i>
-                                            </a>   </td>
+                                                     </a>   
+                                            </td>
 
                                             <td>
                                                 <form action="{{ route('clientes.destroy',$cliente->id) }}" method="POST">

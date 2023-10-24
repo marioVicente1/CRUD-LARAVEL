@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
 @section('template_title')
-    {{ $cliente->name ?? "{{ __('Show') Cliente" }}
+@section('template_title')
+{{ $cliente->name ?? "{{ __('Show') Cliente" }}
+@endsection
 @endsection
 
 @section('content')
